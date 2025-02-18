@@ -139,4 +139,5 @@ Conclusion:
 Overall, HIxLO offers a unique and engaging platform that combines gaming and trading in the crypto market. With features like the Play-to-Earn model, real-time predictions, and weekly challenges, users have the opportunity to profit from their predictions and market analysis skills. Additionally, the platform promotes financial inclusion, accessibility, and high potential returns for users. The innovative prize distribution strategy, multi-level affiliate program, and free ticket system further enhance the gaming and trading experience on HIxLO. Players can participate in various contests and challenges to win big prizes without any additional costs, making HIxLO a competitive and sustainable platform in the crypto trading industry.
 
 
+This repository is private
 
